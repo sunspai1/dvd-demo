@@ -1,2 +1,4 @@
 /train_winequality-white.csv
 /test_winequality-white.csv
+/train_winequality.csv
+/test_winequality.csv
